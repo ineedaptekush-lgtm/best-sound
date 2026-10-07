@@ -1,0 +1,319 @@
+[
+  {
+    "id": "1",
+    "title": "Lada Vesta NG",
+    "category": "Автозвук",
+    "tasks": [
+      "Замена штатного головного устройства",
+      "Установка аудиосистемы"
+    ],
+    "images": [
+      {
+        "width": 1050,
+        "height": 1400,
+        "src": "assets/case-1-1.webp",
+        "alt": "Lada Vesta NG — автозвук, фото 1"
+      },
+      {
+        "width": 1050,
+        "height": 1400,
+        "src": "assets/case-1-2.webp",
+        "alt": "Lada Vesta NG — автозвук, фото 2"
+      },
+      {
+        "width": 640,
+        "height": 480,
+        "src": "assets/case-1-3.webp",
+        "alt": "Lada Vesta NG — автозвук, фото 3"
+      },
+      {
+        "width": 640,
+        "height": 480,
+        "src": "assets/case-1-4.webp",
+        "alt": "Lada Vesta NG — автозвук, фото 4"
+      },
+      {
+        "width": 1050,
+        "height": 1400,
+        "src": "assets/case-1-5.webp",
+        "alt": "Lada Vesta NG — автозвук, фото 5"
+      }
+    ],
+    "cover": {
+      "width": 1050,
+      "height": 1400,
+      "src": "assets/case-1-1.webp",
+      "alt": "Lada Vesta NG — автозвук, фото 1"
+    }
+  },
+  {
+    "id": "2",
+    "title": "Jaecoo J7",
+    "category": "Автозвук",
+    "tasks": [
+      "Установка процессорного усилителя Hellion и сабвуфера",
+      "Шумовиброизоляция дверей",
+      "Установка омывателей передней и задней камер"
+    ],
+    "images": [
+      {
+        "width": 1050,
+        "height": 1400,
+        "src": "assets/case-2-3.webp",
+        "alt": "Jaecoo J7 — автозвук, фото 1"
+      },
+      {
+        "width": 640,
+        "height": 480,
+        "src": "assets/case-2-4.webp",
+        "alt": "Jaecoo J7 — автозвук, фото 2"
+      },
+      {
+        "width": 1050,
+        "height": 1400,
+        "src": "assets/case-2-5.webp",
+        "alt": "Jaecoo J7 — автозвук, фото 3"
+      },
+      {
+        "width": 1050,
+        "height": 1400,
+        "src": "assets/case-2-6.webp",
+        "alt": "Jaecoo J7 — автозвук, фото 4"
+      }
+    ],
+    "cover": {
+      "width": 1050,
+      "height": 1400,
+      "src": "assets/case-2-3.webp",
+      "alt": "Jaecoo J7 — автозвук, фото 1"
+    }
+  },
+  {
+    "id": "3",
+    "title": "Toyota Yaris",
+    "category": "Шумоизоляция",
+    "tasks": [
+      "Шумовиброизоляция пола",
+      "Обработка багажного отсека и дверей"
+    ],
+    "images": [
+      {
+        "width": 640,
+        "height": 480,
+        "src": "assets/case-3-1.webp",
+        "alt": "Toyota Yaris — шумоизоляция, фото 1"
+      },
+      {
+        "width": 640,
+        "height": 480,
+        "src": "assets/case-3-2.webp",
+        "alt": "Toyota Yaris — шумоизоляция, фото 2"
+      },
+      {
+        "width": 1050,
+        "height": 1400,
+        "src": "assets/case-3-3.webp",
+        "alt": "Toyota Yaris — шумоизоляция, фото 3"
+      },
+      {
+        "width": 1050,
+        "height": 1400,
+        "src": "assets/case-3-4.webp",
+        "alt": "Toyota Yaris — шумоизоляция, фото 4"
+      },
+      {
+        "width": 1050,
+        "height": 1400,
+        "src": "assets/case-3-5.webp",
+        "alt": "Toyota Yaris — шумоизоляция, фото 5"
+      },
+      {
+        "width": 640,
+        "height": 480,
+        "src": "assets/case-3-6.webp",
+        "alt": "Toyota Yaris — шумоизоляция, фото 6"
+      }
+    ],
+    "cover": {
+      "width": 1050,
+      "height": 1400,
+      "src": "assets/case-3-3.webp",
+      "alt": "Toyota Yaris — шумоизоляция, фото 3"
+    }
+  },
+  {
+    "id": "4",
+    "title": "Mazda 3",
+    "category": "Подсветка",
+    "tasks": [
+      "Установка атмосферной подсветки салона",
+      "Подсветка дверных карт и торпедо"
+    ],
+    "images": [
+      {
+        "width": 1050,
+        "height": 1400,
+        "src": "assets/case-4-1.webp",
+        "alt": "Mazda 3 — подсветка, фото 1"
+      },
+      {
+        "width": 1050,
+        "height": 1400,
+        "src": "assets/case-4-2.webp",
+        "alt": "Mazda 3 — подсветка, фото 2"
+      },
+      {
+        "width": 1050,
+        "height": 1400,
+        "src": "assets/case-4-3.webp",
+        "alt": "Mazda 3 — подсветка, фото 3"
+      },
+      {
+        "width": 640,
+        "height": 480,
+        "src": "assets/case-4-4.webp",
+        "alt": "Mazda 3 — подсветка, фото 4"
+      },
+      {
+        "width": 1050,
+        "height": 1400,
+        "src": "assets/case-4-5.webp",
+        "alt": "Mazda 3 — подсветка, фото 5"
+      }
+    ],
+    "cover": {
+      "width": 640,
+      "height": 480,
+      "src": "assets/case-4-4.webp",
+      "alt": "Mazda 3 — подсветка, фото 4"
+    }
+  },
+  {
+    "id": "5",
+    "title": "Nissan Sentra",
+    "category": "Автозвук",
+    "tasks": [
+      "Замена штатного головного устройства",
+      "Установка камеры заднего вида",
+      "Установка видеорегистратора"
+    ],
+    "images": [
+      {
+        "width": 1050,
+        "height": 1400,
+        "src": "assets/case-5-2.webp",
+        "alt": "Nissan Sentra — автозвук, фото 1"
+      },
+      {
+        "width": 1050,
+        "height": 1400,
+        "src": "assets/case-5-3.webp",
+        "alt": "Nissan Sentra — автозвук, фото 2"
+      }
+    ],
+    "cover": {
+      "width": 1050,
+      "height": 1400,
+      "src": "assets/case-5-2.webp",
+      "alt": "Nissan Sentra — автозвук, фото 1"
+    }
+  },
+  {
+    "id": "6",
+    "title": "Lifan X50",
+    "category": "Автозвук",
+    "tasks": [
+      "Установка аудиосистемы"
+    ],
+    "images": [
+      {
+        "width": 1050,
+        "height": 1400,
+        "src": "assets/case-6-1.webp",
+        "alt": "Lifan X50 — автозвук, фото 1"
+      },
+      {
+        "width": 640,
+        "height": 480,
+        "src": "assets/case-6-2.webp",
+        "alt": "Lifan X50 — автозвук, фото 2"
+      },
+      {
+        "width": 1050,
+        "height": 1400,
+        "src": "assets/case-6-3.webp",
+        "alt": "Lifan X50 — автозвук, фото 3"
+      }
+    ],
+    "cover": {
+      "width": 640,
+      "height": 480,
+      "src": "assets/case-6-2.webp",
+      "alt": "Lifan X50 — автозвук, фото 2"
+    }
+  },
+  {
+    "id": "7",
+    "title": "Lada Granta Sport",
+    "category": "Автозвук",
+    "tasks": [
+      "Шумовиброизоляция дверей",
+      "Установка акустической системы"
+    ],
+    "images": [
+      {
+        "width": 1050,
+        "height": 1400,
+        "src": "assets/case-7-1.webp",
+        "alt": "Lada Granta Sport — автозвук, фото 1"
+      },
+      {
+        "width": 640,
+        "height": 480,
+        "src": "assets/case-7-2.webp",
+        "alt": "Lada Granta Sport — автозвук, фото 2"
+      },
+      {
+        "width": 640,
+        "height": 480,
+        "src": "assets/case-7-3.webp",
+        "alt": "Lada Granta Sport — автозвук, фото 3"
+      },
+      {
+        "width": 640,
+        "height": 480,
+        "src": "assets/case-7-4.webp",
+        "alt": "Lada Granta Sport — автозвук, фото 4"
+      }
+    ],
+    "cover": {
+      "width": 640,
+      "height": 480,
+      "src": "assets/case-7-2.webp",
+      "alt": "Lada Granta Sport — автозвук, фото 2"
+    }
+  },
+  {
+    "id": "8",
+    "title": "Lada Vesta NG",
+    "category": "Подсветка",
+    "tasks": [
+      "Подсветка дверных карт и ручек",
+      "Подсветка зоны ног и торпедо"
+    ],
+    "images": [
+      {
+        "width": 640,
+        "height": 480,
+        "src": "assets/case-8-1.webp",
+        "alt": "Lada Vesta NG — подсветка, фото 1"
+      }
+    ],
+    "cover": {
+      "width": 640,
+      "height": 480,
+      "src": "assets/case-8-1.webp",
+      "alt": "Lada Vesta NG — подсветка, фото 1"
+    }
+  }
+]

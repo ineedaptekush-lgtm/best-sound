@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://best-sound-voronezh.erofeypavlovich.chatgpt.site/sitemap.xml
